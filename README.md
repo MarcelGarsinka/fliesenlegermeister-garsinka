@@ -1,4 +1,4 @@
-# Fliesenlegermeister Garsika Marcel - Website
+# Fliesenlegermeister Garsinka Marcel - Website
 
 Dieses Projekt ist ein Next.js + TailwindCSS Starter für die Website:
 "Fliesenlegermeister Garsika Marcel".
