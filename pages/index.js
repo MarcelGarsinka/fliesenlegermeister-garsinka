@@ -28,7 +28,7 @@ export default function Home() {
               <text x="50%" y="55%" textAnchor="middle" fill="#ffffff" fontSize="14" fontFamily="sans-serif">MG</text>
             </svg>
             <div>
-              <div className="text-lg font-semibold">Fliesenlegermeister Garsika Marcel</div>
+              <div className="text-lg font-semibold">Fliesenlegermeister Garsinka Marcel</div>
               <div className="text-sm text-gray-500">Ihr zuverlässiger Partner</div>
             </div>
           </div>
@@ -50,7 +50,7 @@ export default function Home() {
             <Image src={IMAGES[0]} alt="Hero" fill style={{objectFit: 'cover'}} sizes="100vw" />
             <div className="absolute inset-0 bg-black/40 flex items-center">
               <div className="max-w-4xl mx-auto px-6 text-white text-center">
-                <h1 className="text-4xl md:text-5xl font-bold mb-4">Fliesenlegermeister Garsika Marcel</h1>
+                <h1 className="text-4xl md:text-5xl font-bold mb-4">Fliesenlegermeister Garsinka Marcel</h1>
                 <p className="text-lg mb-6">Planung • Ausführung • High‑End Fliesenlösungen</p>
                 <a href="#kontakt" className="inline-block bg-accent text-white px-6 py-3 rounded-md">Projekt anfragen</a>
               </div>
@@ -134,9 +134,9 @@ export default function Home() {
 
       <footer className="bg-primary text-white py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
-          <div className="font-semibold">Fliesenlegermeister Garsika Marcel</div>
+          <div className="font-semibold">Fliesenlegermeister Garsinka Marcel</div>
           <div className="text-sm mt-2">{CONTACT.address} • {CONTACT.phone} • {CONTACT.email}</div>
-          <div className="text-xs opacity-80 mt-4">© {new Date().getFullYear()} Fliesenlegermeister Garsika Marcel • Impressum • Datenschutz</div>
+          <div className="text-xs opacity-80 mt-4">© {new Date().getFullYear()} Fliesenlegermeister Garsinka Marcel • Impressum • Datenschutz</div>
         </div>
       </footer>
     </div>
