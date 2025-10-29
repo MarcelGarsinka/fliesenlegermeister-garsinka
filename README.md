@@ -1,7 +1,7 @@
 # Fliesenlegermeister Garsinka Marcel - Website
 
 Dieses Projekt ist ein Next.js + TailwindCSS Starter für die Website:
-"Fliesenlegermeister Garsika Marcel".
+"Fliesenlegermeister Garsinka Marcel".
 
 ### Kontaktdaten eingebaut
 - Telefon: +49 175 4957662
